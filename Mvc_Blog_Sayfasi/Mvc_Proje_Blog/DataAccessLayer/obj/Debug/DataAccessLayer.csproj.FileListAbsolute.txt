@@ -1,0 +1,81 @@
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig3.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.About.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RemoveDate.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.author.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Commentstatus.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Contact.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.blograting.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.adminrole.resources
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migrating.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig3.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.About.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RemoveDate.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.author.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Commentstatus.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Contact.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.blograting.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.adminrole.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migrating.resources
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig2.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig3.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.About.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.RemoveDate.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.author.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Commentstatus.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.Contact.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.blograting.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.adminrole.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migrating.resources
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

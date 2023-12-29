@@ -1,0 +1,45 @@
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\BusinessLayer\obj\Debug\BusinessLayer.pdb

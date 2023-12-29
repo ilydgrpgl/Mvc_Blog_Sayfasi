@@ -1,0 +1,372 @@
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csc.exe
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csc.exe.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csc.rsp
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csi.exe
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csi.exe.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csi.rsp
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.AppContext.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Console.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Net.Http.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\vbc.exe
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\vbc.exe.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\vbc.rsp
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Antlr3.Runtime.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BouncyCastle.Crypto.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityLayer.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Google.Protobuf.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Hash.xxHash.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Newtonsoft.Json.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Buffers.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.IO.Pipelines.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Memory.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Numerics.Vectors.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Helpers.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Mvc.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Optimization.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Razor.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\WebGrease.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\ZstdSharp.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BouncyCastle.Crypto.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Google.Protobuf.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Google.Protobuf.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Hash.xxHash.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Buffers.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.IO.Pipelines.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Memory.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Numerics.Vectors.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Helpers.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Mvc.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Optimization.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Razor.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Newtonsoft.Json.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.pdb
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.xml
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.Mvc.dll
+C:\Users\Ilayda\Desktop\c#\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.Mvc.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\csc.exe
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\csc.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\csc.rsp
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\csi.exe
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\csi.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\csi.rsp
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.AppContext.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Console.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Net.Http.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\vbc.exe
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\vbc.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\vbc.rsp
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Antlr3.Runtime.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\BouncyCastle.Crypto.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityFramework.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Google.Protobuf.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\K4os.Hash.xxHash.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Newtonsoft.Json.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\PagedList.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\PagedList.Mvc.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Buffers.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.IO.Pipelines.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Memory.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Numerics.Vectors.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Helpers.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Mvc.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Optimization.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Razor.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.WebPages.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\WebGrease.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\ZstdSharp.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\BouncyCastle.Crypto.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityFramework.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Google.Protobuf.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Google.Protobuf.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\K4os.Hash.xxHash.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\PagedList.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\PagedList.Mvc.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Buffers.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.IO.Pipelines.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Memory.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Numerics.Vectors.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Helpers.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Mvc.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Optimization.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.Razor.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.WebPages.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Newtonsoft.Json.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.dll
+C:\Users\Ilayda\Desktop\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog - Kopya\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Mvc_Proje_Blog.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csc.exe
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csc.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csc.rsp
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csi.exe
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csi.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\csi.rsp
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.AppContext.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Console.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Net.Http.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\vbc.exe
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\vbc.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\vbc.rsp
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Antlr3.Runtime.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BouncyCastle.Crypto.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BusinessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\DataAccessLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityLayer.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Google.Protobuf.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Hash.xxHash.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Newtonsoft.Json.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.Mvc.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Buffers.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.IO.Pipelines.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Memory.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Numerics.Vectors.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Helpers.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Mvc.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Optimization.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Razor.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\WebGrease.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\ZstdSharp.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BusinessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\DataAccessLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\DataAccessLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityLayer.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityLayer.dll.config
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\BouncyCastle.Crypto.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Google.Protobuf.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Google.Protobuf.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\K4os.Hash.xxHash.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\PagedList.Mvc.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Buffers.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.IO.Pipelines.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Memory.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Numerics.Vectors.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Helpers.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Mvc.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Optimization.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.Razor.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Newtonsoft.Json.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.AssemblyReference.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.CoreCompileInputs.cache
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.csproj.CopyComplete
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.dll
+C:\Users\Ilayda\Desktop\Mvc_Blog_Sayfasi\Mvc_Proje_Blog\Mvc_Proje_Blog\obj\Debug\Mvc_Proje_Blog.pdb
